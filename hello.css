@@ -7,7 +7,7 @@ body {
 }
 
 a {
-  color: #00aeef;
+  color: #0000ff;
   text-decoration: none;
   font-weight: bold;
 }
@@ -32,12 +32,12 @@ header p:nth-child(2) {
 
 main {
   background-color: white;
-  color: black;
+  color: DarkBlue;
   padding: 2rem 0 4rem;
 }
 
 h1 {
-  font-family: "Covered By Your Grace", cursive;
+  font-family: "Lao UI", cursive;
   font-size: 4rem;
   text-align: center;
 }
